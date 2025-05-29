@@ -1,2 +1,2 @@
-# resume
-my resume developed
+#portfolio
+my portfolio developed
